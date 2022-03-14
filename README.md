@@ -4,6 +4,14 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
 
 ####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Three.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) 
 
+
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=talentedev&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
+<img height="150px" />
+<br/>  
+
+<br />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -39,10 +47,3 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=talentedev&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
-<img height="150px" />
-<br/>  
-
-<br />
