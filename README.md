@@ -10,8 +10,6 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
 <img height="150px" />
 <br/>  
-
-<br />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -47,3 +45,24 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
+
+## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+### Online Website building and Mobile app
+<br />
+
+### Best Front-end Developing with Morder Front-end Frameworks
+<br />
+
+### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
+<br />
+
+### Perfect Web Scraping, Bot building
+<br />
+  
+
+</div>
+<br />
