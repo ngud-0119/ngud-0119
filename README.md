@@ -1,4 +1,4 @@
-### Web & Blockchain Developer
+### Web & Blockchain Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Jajabenit250" /> </p>
 
 Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Solidity, Rust, Ethereum, React JS, TypeScript, Vue JS Angluar etc. I've started my freelancing career in 2021 and succeeding it until now. I've done multiple projects on website and web app development including DApps. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
