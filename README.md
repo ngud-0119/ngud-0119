@@ -1,6 +1,6 @@
 ### Senior Full Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=toptalent715&label=Profile%20views&color=0e75b6&style=flat" alt="toptalent715" /> </p>
 
-<p>As a Senior Full Stack Web Engineer with 7+ years of professional background, I have successfully developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for the front end and Node.js(Express.js), Python(Django), Ruby on Rails for the back end, and have handsome experience in DevOps.</p>
+<p>As a Senior Full Stack Web Engineer with 7+ years of professional background, I have successfully developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for the front end and Node.js(Express.js), Python(Django), PHP(Laravel), and Ruby on Rails for the back end.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
 <p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
 
