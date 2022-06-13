@@ -1,8 +1,11 @@
-### Web & Blockchain Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Jajabenit250" /> </p>
+### Senior Full Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=toptalent715&label=Profile%20views&color=0e75b6&style=flat" alt="toptalent715" /> </p>
 
-Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Solidity, Rust, Ethereum, React JS, TypeScript, Vue JS Angluar etc. I've started my freelancing career in 2021 and succeeding it until now. I've done multiple projects on website and web app development including DApps. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
+I am a Senior Full Stack Web Engineer with 7+ years of professional background. I developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for front end and Node.js(Express.js), Python(Django), Ruby on Rails for back end and have handsome experience in DevOps.
 
-####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Three.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue)
+
+
+
+####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Ruby%20on%20Rails-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue)
 
 
 <h1 align="center"></h1>
