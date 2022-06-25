@@ -17,7 +17,8 @@
 </h1>
 <br />
 
-<img align="right" width="50%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<p><img align="right" width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <p>As a Senior Full Stack Web Engineer with 7+ years of professional background, I have successfully developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for the front end and Node.js(Express.js), Python(Django), PHP(Laravel), and Ruby on Rails for the back end.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
 <p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
