@@ -1,4 +1,4 @@
-<img src="https://github.com/TopTalentDev/TopTalentDev/blob/main/6.gif" alt="Awesome Badge" width="100%"/>
+<img src="https://github.com/TopTalentDev/TopTalentDev/blob/main/1.gif" alt="Awesome Badge" width="100%" height="450px"/>
 <div align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://justin-cv.herokuapp.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
