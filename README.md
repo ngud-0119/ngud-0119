@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/uLjJJMGCQR7t"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/>   </a>
 </div>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=toptalentdev.toptalentdev" />
-<img align="right" src="https://img.shields.io/github/followers/toptalentdev?label=Follow&style=social" />
-<h1 align="center"></h1>
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=toptalentdev.toptalentdev" />
+  <img align="right" src="https://img.shields.io/github/followers/toptalentdev?label=Follow&style=social" />
+</h1>
 <br />
 
 <img align="right" width="50%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
@@ -20,11 +21,6 @@
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Ruby%20on%20Rails-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/Jest-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=TopTalentDev&show_icons=true&theme=gotham&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopTalentDev&layout=compact&theme=gotham&count_private=true" /> 
-<img height="150px" />
-<br/>  
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -165,11 +161,17 @@
   </tr>
 </table>
 <br/>
+
 <div align="center" >
-  <a  align="center" href="https://github.com/JustinW424" title="Go to Source">
+  <a  align="center" href="https://github.com/toptalentdev" title="Go to Source">
     <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentdev&theme=react&border=61dafb&hide_border=true" alt="toptalentdev" />
   </a>
 </div>
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=TopTalentDev&show_icons=true&theme=gotham&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopTalentDev&layout=compact&theme=gotham&count_private=true" /> 
+<img height="150px" />
+<br/>  
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=toptalentdev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
