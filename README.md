@@ -1,12 +1,24 @@
-### Senior Full Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=toptalent715&label=Profile%20views&color=0e75b6&style=flat" alt="toptalent715" /> </p>
+### Senior Full Stack Developer
+<p align="center">
+  <img align="center" src="https://github.com/JustinW424/JustinW424/blob/Temle/web 3.0.jpg?raw=true" style = "width: -webkit-fill-available;"/>
+</p>
+<div align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://justin-cv.herokuapp.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://join.skype.com/uLjJJMGCQR7t"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/>   </a>
+</div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=toptalentdev.toptalentdev" />
+<img align="right" src="https://img.shields.io/github/followers/toptalentdev?label=Follow&style=social" />
+<h1 align="center"></h1>
+<br />
 
+<img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>As a Senior Full Stack Web Engineer with 7+ years of professional background, I have successfully developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for the front end and Node.js(Express.js), Python(Django), PHP(Laravel), and Ruby on Rails for the back end.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
 <p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
 
-
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Ruby%20on%20Rails-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/Jest-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
-
 
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=TopTalentDev&show_icons=true&theme=gotham&count_private=true" />
@@ -153,7 +165,16 @@
   </tr>
 </table>
 <br/>
+<div align="center" >
+  <a  align="center" href="https://github.com/JustinW424" title="Go to Source">
+    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=toptalentdev&theme=react&border=61dafb&hide_border=true" alt="toptalentdev" />
+  </a>
+</div>
 
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=toptalentdev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toptalentdev&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
 <div align="center"><h1 font-weight="bold">What Can I do?</h1></div>
 
 ## Full Stack Development
