@@ -19,7 +19,7 @@
 
 <p><img align="right" width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p>As a Senior Full Stack Web Engineer with 6 years of professional background, I have successfully developed and published several web applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Ruby on Rails for the back end.</p>
+<p>As a Senior Full Stack Web Engineer with 7 years of professional background, I have successfully developed and published several web applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Ruby on Rails for the back end.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
 <p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
 
