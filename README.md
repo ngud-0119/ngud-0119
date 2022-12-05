@@ -172,5 +172,3 @@
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=toptalentdev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toptalentdev&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
