@@ -165,6 +165,3 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopTalentDev&layout=compact&theme=gotham&count_private=true" /> 
 <img height="150px" />
 <br/>  
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=toptalentdev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-<br>
