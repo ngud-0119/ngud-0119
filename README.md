@@ -8,7 +8,7 @@
 
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
-<p>As a Full Stack Software Engineer with 7 years of professional background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Java for the back end.</p>
+<p>As a Full Stack Software Engineer with 10 years of professional background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django/Flask, PHP/Laravel, and Java for the back end.</p>
 <p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
 <p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
 
