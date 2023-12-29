@@ -14,6 +14,10 @@
 
 <h2 font-weight="bold">Process</h2>
 <img src="machine.gif">
+<p align="center">
+  <img  src="rr.svg"
+    alt="ngud" />
+</p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
