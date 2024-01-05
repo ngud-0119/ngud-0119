@@ -20,7 +20,8 @@
 <img src="machine.gif">
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
+<img src="skill.png">
+<!-- <table>
   <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
@@ -157,5 +158,5 @@
     </td>
   
   </tr>
-</table>
+</table> -->
 <br/>
