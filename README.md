@@ -17,7 +17,6 @@
   <img  src="rr.svg"
     alt="ngud" />
 </p>
-<img src="machine.gif">
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <!-- <img src="skill.png"> -->
